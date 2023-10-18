@@ -11,6 +11,9 @@ export default function Calca({params}) {
             <ul>
                 <li>
                     <Image src="/img/calca.png" alt="Calça cargo verde." width={350} height={400}/>
+                    <p>Calça Cargo</p>
+                    <p>R$100,00</p>
+                    <p>Calça Cargo na cor verde lodo, estica na cintura e é super confortavel.</p>
                 </li>
             </ul>
         </div>
