@@ -9,6 +9,8 @@ export default function Calca({params}) {
                 <h5>AS CALÇAS MAIS BONITAS DA QUEBRADA VOCÊ SÓ ENCONTRA AQUI!</h5>
             </div>
             <ul>
+                <li>
+                </li>
             </ul>
         </div>
         )
