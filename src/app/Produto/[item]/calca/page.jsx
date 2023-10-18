@@ -14,6 +14,7 @@ export default function Calca({params}) {
                     <p>Calça Cargo</p>
                     <p>R$100,00</p>
                     <p>Calça Cargo na cor verde lodo, estica na cintura e é super confortavel.</p>
+                    <button>Esgotado.</button>
                 </li>
             </ul>
         </div>
