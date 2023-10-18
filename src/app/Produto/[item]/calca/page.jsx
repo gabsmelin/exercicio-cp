@@ -10,6 +10,7 @@ export default function Calca({params}) {
             </div>
             <ul>
                 <li>
+                    <Image src="/img/calca.png" alt="Calça cargo verde." width={350} height={400}/>
                 </li>
             </ul>
         </div>
