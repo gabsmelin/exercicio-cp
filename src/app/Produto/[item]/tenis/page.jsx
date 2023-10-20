@@ -10,7 +10,7 @@ export default function Tenis({params}) {
             </div>
             <ul>
                 <li>
-                    <Image src="/img/tenis1.png" alt="Tênis" width={350} height={400}/>
+                    <Image src="/img/tenis.png" alt="tenis" width={350} height={400}/>    
                     <p>Tênis</p>
                     <p>R$799,00</p>
                     <p>Tênis da nike, linha seleção brasileira, na cor branca e azul.</p>
