@@ -1,5 +1,5 @@
-import Image from "next/image"
-import '../../../components/ScssProdutos/produtos.scss'
+import Image from "next/image";
+import '../../produtos.scss'
 
 export default function Bone({params}) {
     return(

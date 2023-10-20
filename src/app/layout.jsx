@@ -1,4 +1,4 @@
-import Cabecalho from './components/Cabecalho/page'
+import Cabecalho from '../components/Cabecalho/page'
 import './globals.css'
 import { Inter } from 'next/font/google'
 
